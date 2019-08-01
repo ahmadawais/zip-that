@@ -1,4 +1,4 @@
-# zip-that - Zip directory
+# zip-that
 
 [![DOWNLOADS](https://img.shields.io/npm/dt/zip-that?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat&style=flat)](https://www.npmjs.com/package/zip-that) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrahmadawais/)
@@ -51,6 +51,7 @@ zip('./source/directory/', './destination/directory/filename.zip');
 ## License & Conduct
 
 - MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
+- Related [node-archiver](https://github.com/archiverjs/node-archiver)
 - [Code of Conduct](code-of-conduct.md)
 
 <br />
