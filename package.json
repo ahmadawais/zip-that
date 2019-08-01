@@ -18,5 +18,8 @@
 		"zip directory",
 		"Ahmad Awais",
 		"ahmadawais"
-	]
+	],
+	"dependencies": {
+		"archiver": "^3.0.3"
+	}
 }
