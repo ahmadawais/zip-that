@@ -1,0 +1,22 @@
+{
+	"name": "zip-that",
+	"version": "0.0.1",
+	"description": "Zip a directory with JavaScript in Node.js.",
+	"license": "MIT",
+	"repository": "ahmadawais/zip-that",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"zip-that",
+		"zip directory",
+		"Ahmad Awais",
+		"ahmadawais"
+	]
+}
