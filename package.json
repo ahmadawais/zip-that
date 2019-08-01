@@ -1,6 +1,6 @@
 {
 	"name": "zip-that",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "Zip a directory with JavaScript in Node.js.",
 	"license": "MIT",
 	"repository": "ahmadawais/zip-that",
