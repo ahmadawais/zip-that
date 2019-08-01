@@ -29,12 +29,11 @@ I have released a video course to help you become a better developer — <a href
 
 <br />
 
-### RELEASE: [1.0.0](https://github.com/ahmadawais/zipdir/compare/1.0.0...1.0.0)
+### RELEASE: 1.0.0
 
-![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
-> 👌 Name [`14c083b`](https://github.com/ahmadawais/zipdir/commit/14c083b4a45668b7e390fe84b8db8705f8131db6) <br>
-> 👌 Ver [`41f5725`](https://github.com/ahmadawais/zipdir/commit/41f57250e9bb978494aad189de79e755496f0232) <br>
+> 📦 First commit [`a46f181`](https://github.com/ahmadawais/zip-that/commit/a46f181e8c50c226fa72be3db129d304b1d31761) <br>
 
 <br />
 
